@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
-import { WelcomeComponent } from './components/welcome/welcome.component';
+import { LoginComponent } from './components/login/login.component';
+import { RouterModule, Routes } from '@angular/router';
+
 
 @Component({
   selector: 'app-root',
